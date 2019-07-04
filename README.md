@@ -1,8 +1,10 @@
-# The-Twelve-Days-of-Christmas
+# The-Twelve-Days-of-Christmas Swift Playground
 I don’t know why I did this. :-)
 So, this tiny Swift code assembles the text of the popular Christmas song "The Twelve Days of Christmas" .
 
 ## How to use:
+Download and open The-Twelve-Days-of-Christmas.playground
+
 ```Swift
 // Who is the sender of the gifts?
 let sender = "My true love"
