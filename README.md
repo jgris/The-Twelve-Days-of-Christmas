@@ -15,7 +15,7 @@ let gifts = ["partridge", "Turtle doves", "french hens", "calling birds", "golde
             "swans a swimming", "maids a milking", "ladies dancing", "lords a leaping", "pipers piping", "drummers drumming"]
 
 // Instance of 'ChristmasGifts' struct
-let song = ChristmasGifts(gifts, to: recipient, from: sender)
+var song = ChristmasGifts(gifts, to: recipient, from: sender)
 
 // You can set instance property to 'true'
 // if you want to to see numbers in lyrics in their textual representation.
